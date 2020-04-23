@@ -113,7 +113,7 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "ポニーパレード - Pony Parade.ogg", name: "Pony Parade"},
+	
 ];
 
 // Random music order?
